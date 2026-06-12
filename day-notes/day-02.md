@@ -18,7 +18,6 @@ Files Reviewed:
 ### What I Did
 
 Applied the code review workflow from `workflows/code-review.md` to actual Laravel migration files from the `realestate_appointment` project.
-https://github.com/RaihanulHoque/realestate_appointment/commit/70d935516c22673b616db8399378e272a5c2bde5
 
 
 **Files Reviewed:**

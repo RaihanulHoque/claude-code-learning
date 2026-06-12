@@ -132,3 +132,15 @@ The responsibility for correctness, security, and maintainability still belongs 
 * API Review Checklist
 * Database Query Review Checklist
 * Security Review Workflow
+
+## What I Would Actually Fix
+
+High Priority:
+- Missing foreign keys
+- Missing indexes
+
+Medium Priority:
+- Deprecated syntax
+
+Low Priority:
+- Verbose comments
